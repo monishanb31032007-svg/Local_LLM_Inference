@@ -1,0 +1,11 @@
+prompt_id,domain,prompt
+P001,Education,"Explain artificial intelligence in simple English using three points."
+P002,Healthcare,"Explain three healthy habits that help people maintain general health."
+P003,Coding,"Write a Python program to check whether a number is even or odd."
+P004,Travel,"Suggest a two-day travel itinerary for Chennai with popular attractions."
+P005,Business,"Explain three ways a small business can attract more customers."
+P006,Environment,"Explain five simple ways to reduce food waste at home."
+P007,Technology,"Explain the difference between RAM and ROM in simple English."
+P008,Science,"Explain how photosynthesis works in plants."
+P009,Problem Solving,"A student has five subjects with marks 80, 75, 90, 85 and 70. Calculate the average."
+P010,Creative Writing,"Write a short story of about 100 words about a student who develops a helpful AI application."
